@@ -1,0 +1,2 @@
+The above folder contains 3 files a3p1shell1, a3p1shell2 and a3p1shell3 which can handle 1, 2 and multiple files respectively. The pipe basically takes the output of one command and saves it and feeds it to the next command until it reaches the last command after which it prints the output to the screen. For multiple pipes the command basically loops through this idea. 
+Compile the above codes using g++.

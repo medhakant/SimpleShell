@@ -1,0 +1,1 @@
+This folder contains 2 code both of which support file redirection. The first code supports just redirection while the second code supports redirection + pipe. The input file is fed into the first command and the output from the second command is rediredted to the output file. This idea can be extended to make use of multipe pipes. Again, Compile with g++. 
